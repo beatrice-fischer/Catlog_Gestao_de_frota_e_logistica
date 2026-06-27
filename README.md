@@ -1,5 +1,6 @@
 # 🚛 CatLog — Sistema de Gestão de Frota e Logística
 Projeto desenvolvido como exercício de **Programação Orientada a Objetos (POO)** em Java, simulando o núcleo de um sistema de gestão de frota para uma empresa de logística.
+Desenvolvido para a disciplina de **Programação Orientada a Objetos** do segundo semestre de Engenharia de Software da Católica de Santa Catarina.
 
 ---
 
@@ -77,6 +78,3 @@ java Main
 
 > Requisito: Java 8 ou superior.
 ---
-
-## 📚 Disciplina
-Desenvolvido para a disciplina de **Programação Orientada a Objetos**.
