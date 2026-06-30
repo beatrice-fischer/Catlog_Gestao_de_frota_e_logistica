@@ -78,3 +78,4 @@ java Main
 
 > Requisito: Java 8 ou superior.
 ---
+<img width="776" height="836" alt="image" src="https://github.com/user-attachments/assets/bb558f66-2b08-43b2-be8a-a2b207f70b09" />
